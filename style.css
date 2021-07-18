@@ -1,0 +1,30 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.container{
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    height:80vh;
+}
+
+.title{
+    font-size:3rem;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.text{
+    font-size:5rem;
+    text-align:center;
+    font-weight:900;
+}
+
+footer{
+    position:absolute;
+    bottom:10px;
+    left:10px;
+}
